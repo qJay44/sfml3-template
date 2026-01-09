@@ -1,4 +1,4 @@
 #pragma once
 
-#define WIDTH 1'200u
-#define HEIGHT 720u
+#define INIT_WIDTH 1200u
+#define INIT_HEIGHT 720u
